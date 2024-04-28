@@ -6,4 +6,5 @@ Well this game is made in C++ using only structs and char data type. Why? becaus
 ~ Local Account system (No password)
 
 ~ LeaderBoard for all of the accounts
-
+# Bugs:
+~ None
